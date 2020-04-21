@@ -13,7 +13,7 @@ As of right now, the name of my project is Project Bit Buddy.
 Dusk to Dawn: Sleep and Wake Up Lamp
 *(Sourced from http://idprojects.rmit.edu.au/project/dusk-to-dawn-sleep-and-wakeup-lamp/)*
 
-![Image](missingimage.png)
+![Image](duskdawn.PNG)
 
 This project is related to mine because it uses coding methods that respond to time with light and colour.
 
