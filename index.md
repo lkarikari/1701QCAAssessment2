@@ -37,13 +37,6 @@ This project is related to mine because It uses processes such as timers and aud
 
 ## Related Projects 4-6 are located under initial design concepts ##
 
-## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
-
-### *Brief resource name/description* ###
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
-
 ## Conceptual progress ##
 
 ### Design intent ###
