@@ -104,7 +104,7 @@ After narrowing down my interactive toy idea, I wanted to look online to see if 
 
 ### Interaction flowchart ###
 
-![Image](flowchart.jpg)
+![Image](intflowchart.jpg)
 
 ## Physical experimentation documentation ##
 
