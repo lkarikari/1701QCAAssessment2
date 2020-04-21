@@ -144,7 +144,7 @@ The little wire piece on the side of the prototype is connected to the ground pi
 
 At this point, the construction was almost complete and I had figured out a way to secure the micro:bit while also being able to move it if I needed to re-program it. I couldn't remove it at this point because all the wires were connected with the prototype's pieces.
 
-This is the finished prototype
+## This is the finished prototype ##
 
 ![Image](final1.jpg)
 ![Image](final2.jpg)
