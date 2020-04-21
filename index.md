@@ -22,7 +22,7 @@ Mood Reflecting Floor
 
 *(Sourced from https://www.youtube.com/watch?v=JOg4chJAgn8)*
 
-![Image](missingimage.png)
+![Image](moodfloor.PNG)
 
 This project is related to mine because it reacts and responds to input from its user.
 
@@ -31,7 +31,7 @@ medicube: Smart medication dispenser with voice assistant
 
 *(Sourced from https://interactiondesign.sva.edu/projects/medicube)*
 
-![Image](missingimage.png)
+![Image](medicube.PNG)
 
 This project is related to mine because It uses processes such as timers and audio output in response to the users' needs and/or preferences.
 
@@ -58,33 +58,33 @@ The device has two options; Study 30 min : Break 5 min or; Study 60 min : Break 
 Pins 1 and 2 can be pressed to select the setting. The device has to be turned upside down and back upright for the alarm to stop. Buttons A and B are the On and Off buttons. 
 It allows people to study at a decent pace, allowing them to have small breaks and doesn’t make them work too hard.
 
-![Image](missingimage.png)
+![Image](studybuds.jpg)
 
 There is an interesting website, Tomato Timer, that allows users to start and stop it whenever they want and also allows them to take either short (5 mins) or long (10 mins) breaks. The design is a lot more sophisticated than my micro:bit version idea, but it shares the same foundational concept.
 
-![Image](missingimage.png)
+![Image](tomatertimer.PNG)
 
 *(Sourced from https://tomato-timer.com/)*
 
 ### Design concept 2: Timely Snacks ###
 A snack dispenser that only dispenses every half hour. Similar to the Study Buddy idea, it gives the user an incentive to work towards. It would be most effective with a younger audience in order to teach them about productivity and incentivising. This concept is commonly found in food bowls for pets that dispense a certain amount of food for the animal to eat at a certain time of the day. Instead of using pellet food, candy or chocolate bars would be used for this device.
 
-![Image](missingimage.png)
+![Image](dispenses.jpg)
 
 The timed snack dispenser draws inspiration from machines commonly used for pet cats and dogs. It dispenses the animals’ food at a certain time of day, which is adjustable by the user. The idea makes the device seem trivial, but it could work to help people be more productive with their work.
 
-![Image](missingimage.png)
+![Image](dogfood.jpg)
 
 *(Sourced from https://www.amazon.ae/Automatic-Dispenser-Station-Programmable-Portion/dp/B07MQ2H996?ref=SQAE-WEB-DP301)*
 
 ### Design concept 3: Alarm Box ###
 Alarm box: A box that has a specific opening method, and when tried to open the wrong way, sounds an alarm for 10 seconds. The user must open the box in a certain way in order to successfully unlock it and gain access to its contents. Three failed attempts causes the box to lock temporarily for 1 day, disabling the possibility of unlocking it a fourth time. The alarm sound would be produced by a simple buzzer and an LED ‘X’ would flash on the display. The idea stems from the concept behind a simple safe, and a more creative version, a puzzle box. The owner could store any of their private possessions in the box, for example, a journal, spare keys or special items.
 
-![Image](missingimage.png)
+![Image](puzzleboxs.jpg)
 
 Puzzle boxes are quite stimulating and I’ve always found them interesting, which is why I considered one for this project. I’ve drawn inspiration from two concepts: A lock and key system, and a more complicated, more creative puzzle system, where the user has to open the box in a very specific way or an alarm will sound and the box will remain locked. This box below is a great example of the idea, but doesn’t have the alarm.
 
-![Image](missingimage.png)
+![Image](puzzlebox.jpg)
 
 *(Sourced from https://www.amazon.com/Sun-Steps-Cube-Secret-DRAWER/dp/B009QEUNWG)*
 
@@ -97,15 +97,15 @@ All of these characteristics of the device are intended to give the toy a person
 Buttons A and B are the On and Off buttons, respectively.
 Another aspect I want to add to the toy is a wagging tail to indicate that the toy is happy. When the user pats the toy, it wags its tail.
 
-![Image](missingimage.png)
+![Image](inttoys.jpg)
 
 After narrowing down my interactive toy idea, I wanted to look online to see if there were some good examples of micro:bit pet toys. Unsurprisingly, there were quite a lot. The pictures below are a little different to my specific idea, but the basic elements are similar and the information provided with the images gives me a good foundation to start from for my own device. 
 
-![Image](missingimage.png)s
+![Image](ladybug.jpg)
 
-![Image](missingimage.png)
+![Image](microbitdog.jpg)
 
-![Image](missingimage.png)
+![Image](piggy.jpg)
 
 *(Sourced from https://makecode.microbit.org/courses/csintro/making/project)*
 
@@ -124,35 +124,35 @@ Ensure you include comments about the choices you've made along the way.*
 
 Coding first: I wanted the prototype to have a range of responses to input, so it would be fun to operate. This required quite a bit of coding, as shown below. It didn't take too long to finish this particular code because it consists of mainly the basic processes we learned near the start of the trimester. I tried to include some more complicated coding that I'd sourced off the internet, but none of them worked. I relied a little on the micro:bit booklet instead, and recapped in-class activities I have done in the past.
 
-![Image](missingimage.png)
+![Image](code.PNG)
 
 After the code was set up, I could start constructing the prototype around the micro:bit. I ordered alligator clips online specifically for this assessment, but they never arrived, so I had to keep the breadboard included in the design, which makes it a bit chunky.
 
-![Image](missingimage.png)
+![Image](interior1.jpg)
 
 The longest part of this whole process was the construction. I used a lot of balsa wood, aluminium foil and pva glue. After a while, I realised that pva glue can take a little while to dry completely and I wasn't very patient with it. I kept trying to work on the prototype and assemble it while the glue was still wet, causing it to fall apart very easily. Eventually I switched it out for super glue, which was much more efficient.
 
-![Image](missingimage.png)
+![Image](interior2.jpg)
 
 The inside was also a bit tricky, as I had to keep the micro:bit in a specific position and secure it there, so I had to fiddle around with layering the balsa wood and foil to keep it elevated. 
 
-![Image](missingimage.png)
+![Image](sidepiece.jpg)
 
 The little wire piece on the side of the prototype is connected to the ground pin and is where the user must place one of their hands before touching either of the other pins. 
 
-![Image](missingimage.png)
+![Image](interior3.jpg)
 
 At this point, the construction was almost complete and I had figured out a way to secure the micro:bit while also being able to move it if I needed to re-program it. I couldn't remove it at this point because all the wires were connected with the prototype's pieces.
 
 This is the finished prototype
 
-![Image](missingimage.png)
-![Image](missingimage.png)
+![Image](final1.jpg)
+![Image](final2.jpg)
 
 The prototype can display different facial expressions to indicate its mood.
 
-![Image](missingimage.png)
-![Image](missingimage.png)
+![Image](final3.jpg)
+![Image](final4.jpg)
 
 I have uploaded a video demonstrating how the prototype works on the Learning@Griffith submission point.
 
