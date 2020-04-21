@@ -78,7 +78,7 @@ The timed snack dispenser draws inspiration from machines commonly used for pet 
 
 *(Sourced from https://www.amazon.ae/Automatic-Dispenser-Station-Programmable-Portion/dp/B07MQ2H996?ref=SQAE-WEB-DP301)*
 
-### Design concept 3:Alarm Box ###
+### Design concept 3: Alarm Box ###
 Alarm box: A box that has a specific opening method, and when tried to open the wrong way, sounds an alarm for 10 seconds. The user must open the box in a certain way in order to successfully unlock it and gain access to its contents. Three failed attempts causes the box to lock temporarily for 1 day, disabling the possibility of unlocking it a fourth time. The alarm sound would be produced by a simple buzzer and an LED ‘X’ would flash on the display. The idea stems from the concept behind a simple safe, and a more creative version, a puzzle box. The owner could store any of their private possessions in the box, for example, a journal, spare keys or special items.
 
 ![Image](missingimage.png)
