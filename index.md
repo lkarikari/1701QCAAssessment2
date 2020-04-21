@@ -10,31 +10,30 @@ As of right now, the name of my project is Project Bit Buddy.
 ## Related Projects ##
 
 ### Related Project 1 ###
-*Insert name of project*
-
-*Insert URL to project*
+Dusk to Dawn: Sleep and Wake Up Lamp
+*(Sourced from http://idprojects.rmit.edu.au/project/dusk-to-dawn-sleep-and-wakeup-lamp/)*
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it uses coding methods that respond to time with light and colour.
 
 ### Related Project 2 ###
-*Insert name of project*
+Mood Reflecting Floor
 
-*Insert URL to project*
+*(Sourced from https://www.youtube.com/watch?v=JOg4chJAgn8)*
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it reacts and responds to input from its user.
 
 ### Related Project 3 ###
-*Insert name of project*
+medicube: Smart medication dispenser with voice assistant
 
-*Insert URL to project*
+*(Sourced from https://interactiondesign.sva.edu/projects/medicube)*
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because It uses processes such as timers and audio output in response to the users' needs and/or preferences.
 
 ## Related Projects 4-5 are located under initial design concepts ##
 
